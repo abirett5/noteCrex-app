@@ -31,8 +31,8 @@ body{
 }
 
 ::selection{
-    color: #fff;
-    background: #618cf8;
+    color: #00FF00;
+    background: black;
 }
 
 .header-wrapper{
